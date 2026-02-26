@@ -35,8 +35,8 @@ public class PasswordClient {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		PasswordClient client = new PasswordClient();
-		
-		client.login("bobby");
+		String name = "teng";
+		client.login(name);
         
 	}
 
